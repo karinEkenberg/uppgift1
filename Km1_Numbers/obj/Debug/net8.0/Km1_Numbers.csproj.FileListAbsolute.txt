@@ -1,0 +1,14 @@
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\Km1_Numbers\bin\Debug\net8.0\Km1_Numbers.exe
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\Km1_Numbers\bin\Debug\net8.0\Km1_Numbers.deps.json
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\Km1_Numbers\bin\Debug\net8.0\Km1_Numbers.runtimeconfig.json
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\Km1_Numbers\bin\Debug\net8.0\Km1_Numbers.dll
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\Km1_Numbers\bin\Debug\net8.0\Km1_Numbers.pdb
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\Km1_Numbers\obj\Debug\net8.0\Km1_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\Km1_Numbers\obj\Debug\net8.0\Km1_Numbers.AssemblyInfoInputs.cache
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\Km1_Numbers\obj\Debug\net8.0\Km1_Numbers.AssemblyInfo.cs
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\Km1_Numbers\obj\Debug\net8.0\Km1_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\Km1_Numbers\obj\Debug\net8.0\Km1_Numbers.dll
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\Km1_Numbers\obj\Debug\net8.0\refint\Km1_Numbers.dll
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\Km1_Numbers\obj\Debug\net8.0\Km1_Numbers.pdb
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\Km1_Numbers\obj\Debug\net8.0\Km1_Numbers.genruntimeconfig.cache
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\Km1_Numbers\obj\Debug\net8.0\ref\Km1_Numbers.dll
